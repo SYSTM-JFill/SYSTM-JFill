@@ -14,6 +14,6 @@ Each project includes a clear explanation of the business case, methods, and res
 Let's Connect
 I'm open to new opportunities and collaborations. Feel free to reach out!
 
-Email: [](Jasonfillbach@gmail.com)]
-LinkedIn: [](https://www.linkedin.com/in/jason-fillbach-420039189)]
-Website: [](https://github.com/SYSTM-JFill)]
+Email: Jasonfillbach@gmail.com
+LinkedIn: https://www.linkedin.com/in/jason-fillbach-420039189
+Website: https://github.com/SYSTM-JFill
