@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio, where I explore and solve unique business challenges through organizational data. My goal is to turn data into actionable insights that help businesses improve decision-making and performance.
+Welcome to my GitHub portfolio, where I explore and solve unique business challenges through organizational data. My goal is to turn data into actionable insights that help businesses improve decision-making and performance. Aditionally, I do game design which includes project management, scripting and UX!
 
 Data-Driven Business Solutions Portfolio
 Key Focus Areas
@@ -16,4 +16,4 @@ I'm open to new opportunities and collaborations. Feel free to reach out!
 
 Email: Jasonfillbach@gmail.com
 LinkedIn: https://www.linkedin.com/in/jason-fillbach-420039189
-Website: https://github.com/SYSTM-JFill
+Websites: [https://github.com/SYSTM-JFill](https://colossalgamingstud.wixsite.com/my-site)
