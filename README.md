@@ -1,4 +1,5 @@
 👋 Welcome
+
 Hi, and thanks for visiting my GitHub! I'm a data-focused problem solver with a background in business analysis, digital strategy, and game development. I enjoy taking complex challenges—whether in the workplace or in a game engine—and breaking them down into clear, workable systems. This space is where I share some of the projects that reflect that blend of creativity and analytics.
 
 My professional experience comes from roles in the manufacturing and digital marketing space, where I've used tools like SQL, Excel, and Python to dig deep into sales, operations, and customer behavior. I’ve worked cross-functionally with sales teams, procurement, and executive leadership to help businesses optimize how they work. I’ve also managed full-cycle dashboards, sales forecasts, and market analyses to support business decisions at scale.
@@ -19,6 +20,7 @@ Audio Engineering and Sound Design
 AI (ethical integration into workflows and tools)
 
 🤝 Let’s Connect
+
 I’m always looking to learn more, take on new challenges, or just talk shop. Whether you're working on a data project, game prototype, or something entirely different, I’m open to collaborating or offering support. Feel free to reach out through GitHub or LinkedIn.
 I'm open to new opportunities and collaborations. Feel free to reach out!
 
