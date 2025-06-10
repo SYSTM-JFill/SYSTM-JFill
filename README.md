@@ -1,29 +1,47 @@
-👋 Welcome
+# 👋 Hi, I’m Jason
 
-Hi, and thanks for visiting my GitHub! I'm a data-focused problem solver with a background in business analysis, digital strategy, and game development. I enjoy taking complex challenges—whether in the workplace or in a game engine—and breaking them down into clear, workable systems. This space is where I share some of the projects that reflect that blend of creativity and analytics.
+Welcome to my GitHub! I'm a data-oriented problem solver with a professional background in **business analysis**, **digital strategy**, and **game design**. I enjoy translating messy data into clear insights, building tools that improve performance, and creating interactive experiences that combine creativity with technical execution.
 
-My professional experience comes from roles in the manufacturing and digital marketing space, where I've used tools like SQL, Excel, and Python to dig deep into sales, operations, and customer behavior. I’ve worked cross-functionally with sales teams, procurement, and executive leadership to help businesses optimize how they work. I’ve also managed full-cycle dashboards, sales forecasts, and market analyses to support business decisions at scale.
+---
 
-Outside of the data world, I also work on game design projects. This includes scripting, UX development, and managing collaborative creative workflows. I enjoy learning new tools and creating experiences that are both fun and technically sound.
+## 💼 About Me
 
-🔧 Skills I Use Often
+- 🧠 **Business Analyst** with 3+ years of experience in operations, procurement, marketing, and executive reporting  
+- 📊 Skilled in **SQL**, **Excel**, **Python (Pandas, NumPy)**, and **Power BI-style dashboards**  
+- 🎮 Game designer focused on **scripting**, **UX**, and **project management**  
+- 🧰 Comfortable working with C-suite teams, managing timelines, and balancing technical + creative work  
+- 🌍 Also taught English abroad, which sharpened my communication and adaptability
 
-SQL, Excel, Python (Pandas, NumPy)
+---
 
-Data Visualization and Reporting (Dashboards, KPI tracking)
+## 🔧 Tools & Technologies
 
-Machine Learning Studio (basic predictive modeling)
+| Data & Analytics     | Programming        | Media & UX            |
+|----------------------|--------------------|------------------------|
+| Excel, SQL, Power BI | Python, ML Studio  | Photoshop, Premiere, Capcut |
+| Dashboards & KPIs    | Pandas, NumPy      | Game Scripting & UX    |
+| Data Cleaning & Viz  | Git & GitHub       | Digital Storytelling   |
 
-Digital Content Creation (Photoshop, Premiere, Capcut)
+---
 
-Audio Engineering and Sound Design
+## 📁 Projects
 
-AI (ethical integration into workflows and tools)
+### 🧠 [AI Company Funding Model](#)
+A Business Intelligence analysis of seed-round funding based on mentions of AI.
 
-🤝 Let’s Connect
 
-I’m always looking to learn more, take on new challenges, or just talk shop. Whether you're working on a data project, game prototype, or something entirely different, I’m open to collaborating or offering support. Feel free to reach out through GitHub or LinkedIn.
-I'm open to new opportunities and collaborations. Feel free to reach out!
+### 🎮 [Game Dev Code Snippets (Selected)](#)
+A showcase of select code from my ongoing game design work. Focused on interactive systems, scripting, and in-game UX elements.
+
+---
+
+## 🤝 Let’s Connect
+
+I'm always open to new opportunities, collaborations, or just talking shop.  
+Feel free to connect with me here on GitHub or reach out via [LinkedIn](#).
+
+---
+
 
 Email: Jasonfillbach@gmail.com
 LinkedIn: https://www.linkedin.com/in/jason-fillbach-420039189
