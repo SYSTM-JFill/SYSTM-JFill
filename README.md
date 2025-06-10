@@ -7,6 +7,7 @@ My professional experience comes from roles in the manufacturing and digital mar
 Outside of the data world, I also work on game design projects. This includes scripting, UX development, and managing collaborative creative workflows. I enjoy learning new tools and creating experiences that are both fun and technically sound.
 
 🔧 Skills I Use Often
+
 SQL, Excel, Python (Pandas, NumPy)
 
 Data Visualization and Reporting (Dashboards, KPI tracking)
