@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 - 📊 Skilled in **SQL**, **Excel**, **Python (Pandas, NumPy)**, and **Power BI-style dashboards**  
 - 🎮 Game designer focused on **scripting**, **UX**, and **project management**  
 - 🧰 Comfortable working with C-suite teams, managing timelines, and balancing technical + creative work  
-- 🌍 Also taught English abroad, which sharpened my communication and adaptability
+
 
 ---
 
