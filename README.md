@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 
 ## 📁 Projects
 
-### 👮:cop [LAPD Payroll Analysis(#)
+### 👮 [LAPD Payroll Analysis](#)
 A payroll analysis of the City of LA using Holts-Winter forecasting. Anonamly detection
 
 ### 🧠 [AI Company Funding Model](#)
