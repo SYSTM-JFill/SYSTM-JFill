@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 - 🎮 Game designer focused on **scripting**, **UX**, and **project management**  
 - 🧰 Comfortable working with C-suite teams, managing timelines, and balancing technical + creative work  
 
-
 ---
 
 ## 🔧 Tools & Technologies
@@ -26,12 +25,11 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 
 ## 📁 Projects
 
-### 👮 [LAPD Payroll Analysis](#)
-A payroll analysis of the City of LA using Holts-Winter forecasting. Anonamly detection
+### 📄 [SEC 10-K Parser](https://github.com/SYSTM-JFill/EDGAR)
+A Python project for automatically retrieving and parsing 10-K filings from the SEC EDGAR database. Extracts financial tables (like balance sheets) using iXBRL, BeautifulSoup, and custom cleaning scripts.
 
-### 🧠 [AI Company Funding Model](#)
-A Business Intelligence analysis of seed-round funding based on mentions of AI.
-
+### 👮 [LAPD Payroll Analysis](https://github.com/SYSTM-JFill/la-city-payroll-analysis)
+A payroll analysis of the City of LA using Holt-Winters forecasting and anomaly detection.
 
 ### 🎮 [Game Dev Code Snippets (Selected)](#)
 A showcase of select code from my ongoing game design work. Focused on interactive systems, scripting, and in-game UX elements.
