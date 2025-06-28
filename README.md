@@ -15,15 +15,22 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 
 ## 🔧 Tools & Technologies
 
-| Data & Analytics     | Programming        | Media & UX            |
-|----------------------|--------------------|------------------------|
+| Data & Analytics     | Programming        | Media & UX                  |
+|----------------------|--------------------|------------------------------|
 | Excel, SQL, Power BI | Python, ML Studio  | Photoshop, Premiere, Capcut |
-| Dashboards & KPIs    | Pandas, NumPy      | Game Scripting & UX    |
-| Data Cleaning & Viz  | Git & GitHub       | Digital Storytelling   |
+| Dashboards & KPIs    | Pandas, NumPy      | Game Scripting & UX         |
+| Data Cleaning & Viz  | Git & GitHub       | Digital Storytelling        |
 
 ---
 
 ## 📁 Projects
+
+### 💸 [Options Max Pain Tracker](https://github.com/SYSTM-JFill/options-max-pain-tracker)
+An interactive Python GUI tool that visualizes **open interest**, **volume**, and **max pain levels** for stock options. Built using `yfinance`, `matplotlib`, and `Tkinter` with exportable chart/data outputs and zooming functionality.
+
+> _Includes filtering between calls/puts, ATR range checks, and dynamic slider control to inspect options strike clusters._
+
+---
 
 ### 📄 [SEC 10-K Parser](https://github.com/SYSTM-JFill/EDGAR)
 A Python project for automatically retrieving and parsing 10-K filings from the SEC EDGAR database. Extracts financial tables (like balance sheets) using iXBRL, BeautifulSoup, and custom cleaning scripts.
@@ -31,19 +38,10 @@ A Python project for automatically retrieving and parsing 10-K filings from the 
 ### 👮 [LAPD Payroll Analysis](https://github.com/SYSTM-JFill/la-city-payroll-analysis)
 A payroll analysis of the City of LA using Holt-Winters forecasting and anomaly detection.
 
-### 🎮 [Game Dev Code Snippets (Selected)](#)
-A showcase of select code from my ongoing game design work. Focused on interactive systems, scripting, and in-game UX elements.
-
----
-
-## 🤝 Let’s Connect
-
-I'm always open to new opportunities, collaborations, or just talking shop.  
-Feel free to connect with me here on GitHub or reach out via [LinkedIn](#).
 
 ---
 
 
 Email: Jasonfillbach@gmail.com
 LinkedIn: https://www.linkedin.com/in/jason-fillbach-420039189
-Websites: [https://github.com/SYSTM-JFill](https://colossalgamingstud.wixsite.com/my-site)
+Websites: [https://github.com/SYSTM-JFill](https://colossalgamingstud.wixsite.com/my-site) 
