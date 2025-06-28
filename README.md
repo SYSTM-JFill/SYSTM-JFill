@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 
 ## 📁 Projects
 
-### 💸 [Options Max Pain Tracker](https://github.com/SYSTM-JFill/options-max-pain-tracker)
+### 💸 [Options Max Pain Tracker](https://github.com/SYSTM-JFill/OptionsOpenInterest)
 An interactive Python GUI tool that visualizes **open interest**, **volume**, and **max pain levels** for stock options. Built using `yfinance`, `matplotlib`, and `Tkinter` with exportable chart/data outputs and zooming functionality.
 
 > _Includes filtering between calls/puts, ATR range checks, and dynamic slider control to inspect options strike clusters._
