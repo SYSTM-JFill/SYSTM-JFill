@@ -32,12 +32,16 @@ An interactive Python GUI tool that visualizes **open interest**, **volume**, an
 
 ---
 
+### 🎲 [Asymmetric Coordination Game Simulator](https://github.com/SYSTM-JFill/coordination-game-simulator)  
+A Python simulation of a repeated asymmetric coordination game modeling strategic timing decisions between two competing tech firms. Features live heatmaps of strategy outcomes, rolling win rates, and exportable visualizations to explore first-mover advantages and competitive dynamics.
+
+---
+
 ### 📄 [SEC 10-K Parser](https://github.com/SYSTM-JFill/EDGAR)
 A Python project for automatically retrieving and parsing 10-K filings from the SEC EDGAR database. Extracts financial tables (like balance sheets) using iXBRL, BeautifulSoup, and custom cleaning scripts.
 
 ### 👮 [LAPD Payroll Analysis](https://github.com/SYSTM-JFill/la-city-payroll-analysis)
 A payroll analysis of the City of LA using Holt-Winters forecasting and anomaly detection.
-
 
 ---
 
