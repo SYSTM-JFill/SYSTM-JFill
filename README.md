@@ -25,27 +25,37 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 
 ## 📁 Projects
 
-### 💸 [Options Max Pain Tracker](https://github.com/SYSTM-JFill/OptionsOpenInterest)
-An interactive Python GUI tool that visualizes **open interest**, **volume**, and **max pain levels** for stock options. Built using `yfinance`, `matplotlib`, and `Tkinter` with exportable chart/data outputs and zooming functionality.
+### 💼 Payroll & Anomaly Detection Projects
 
-> _Includes filtering between calls/puts, ATR range checks, and dynamic slider control to inspect options strike clusters._
+- **[Payroll Discrepancy Detection](https://github.com/SYSTM-JFill/PayrollDiscrepancyDetection)**  
+  A Python-based audit tool to compare payroll hours across systems (e.g., TABS vs SAP). Detects mismatches, generates detailed CSV reports, and produces PDF audit reports with visualizations. Uses mock generated data for testing and demonstration.
 
----
-
-### 🎲 [Asymmetric Coordination Game Simulator](https://github.com/SYSTM-JFill/coordination-game-simulator)  
-A Python simulation of a repeated asymmetric coordination game modeling strategic timing decisions between two competing tech firms. Features live heatmaps of strategy outcomes, rolling win rates, and exportable visualizations to explore first-mover advantages and competitive dynamics.
+- **[LAPD Payroll Anomaly Analysis](https://github.com/SYSTM-JFill/la-city-payroll-analysis)**  
+  An anomaly detection and forecasting project on City of LA payroll data using Holt-Winters exponential smoothing methods to identify unusual payroll activity patterns.
 
 ---
 
-### 📄 [SEC 10-K Parser](https://github.com/SYSTM-JFill/EDGAR)
-A Python project for automatically retrieving and parsing 10-K filings from the SEC EDGAR database. Extracts financial tables (like balance sheets) using iXBRL, BeautifulSoup, and custom cleaning scripts.
+### 📈 Financial Data & Market Analysis
 
-### 👮 [LAPD Payroll Analysis](https://github.com/SYSTM-JFill/la-city-payroll-analysis)
-A payroll analysis of the City of LA using Holt-Winters forecasting and anomaly detection.
+- **[Options Max Pain Tracker](https://github.com/SYSTM-JFill/OptionsOpenInterest)**  
+  An interactive Python GUI tool that visualizes **open interest**, **volume**, and **max pain levels** for stock options. Built using `yfinance`, `matplotlib`, and `Tkinter` with exportable chart/data outputs and zooming functionality.  
+  Includes filtering between calls/puts, ATR range checks, and dynamic slider controls.
+
+- **[SEC 10-K Parser](https://github.com/SYSTM-JFill/EDGAR)**  
+  Python scripts for automated retrieval and parsing of SEC 10-K filings via the EDGAR database. Extracts financial tables like balance sheets from iXBRL-formatted filings using BeautifulSoup and custom data cleaning routines.
 
 ---
 
+### 🎲 Other Projects
 
-Email: Jasonfillbach@gmail.com
-LinkedIn: https://www.linkedin.com/in/jason-fillbach-420039189
-Websites: [https://github.com/SYSTM-JFill](https://colossalgamingstud.wixsite.com/my-site) 
+- **[Asymmetric Coordination Game Simulator](https://github.com/SYSTM-JFill/coordination-game-simulator)**  
+  A simulation of a repeated asymmetric coordination game modeling strategic timing decisions between competing firms. Features live heatmaps, rolling win rates, and exportable visualizations to study competitive dynamics.
+
+---
+
+Email: Jasonfillbach@gmail.com  
+
+LinkedIn: https://www.linkedin.com/in/jason-fillbach-420039189  
+
+Websites: [https://github.com/SYSTM-JFill](https://colossalgamingstud.wixsite.com/my-site)  
+
