@@ -30,6 +30,9 @@ Welcome to my GitHub! I'm a data-oriented problem solver with a professional bac
 - **[Payroll Discrepancy Detection](https://github.com/SYSTM-JFill/PayrollDiscrepancyDetection)**  
   A Python-based audit tool to compare payroll hours across systems (e.g., TABS vs SAP). Detects mismatches, generates detailed CSV reports, and produces PDF audit reports with visualizations. Uses mock generated data for testing and demonstration.
 
+- **[Payroll Calendar Drift Monitor](https://github.com/SYSTM-JFill/Payroll_Calendar)**  
+  A Python Tkinter desktop app that generates payroll schedules with customizable pay frequencies (weekly, bi-weekly, semi-monthly, monthly) and payday offsets.  Automatically detects holidays and weekends based on country/state, suggests adjusted pay dates, and allows exporting payroll calendars as CSV or iCal files for seamless calendar integration and reporting.
+
 - **[LAPD Payroll Anomaly Analysis](https://github.com/SYSTM-JFill/la-city-payroll-analysis)**  
   An anomaly detection and forecasting project on City of LA payroll data using Holt-Winters exponential smoothing methods to identify unusual payroll activity patterns.
 
